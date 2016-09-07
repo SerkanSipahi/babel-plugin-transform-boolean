@@ -1,9 +1,9 @@
 {
   "name": "babel-plugin-transform-boolean",
   "version": "0.0.1",
-  "description": "Transform Booleans Plugin for Babel",
+  "description": "Babel Plugin for Transform Booleans",
   "repository": "https://github.com/ShuhratBek/babel-plugin-transform-boolean",
-  "author": "ShuhratBek",
+  "author": "shuhratbek",
   "license": "MIT",
   "main": "dist/index.js",
   "dependencies": {
